@@ -1,5 +1,5 @@
 
-# PROJECT OVERVIEW
+## PROJECT OVERVIEW
 In this solo project, I endeavored to predict housing prices in Boston by employing various machine-learning models. Initially, I utilized Linear Regression, a fundamental technique in predictive modeling, 
 to establish a baseline understanding of the relationships between housing attributes and their corresponding prices. Subsequently, I explored the capabilities of Decision Tree Regression, a method adept at 
 capturing nonlinear patterns within the data, to potentially enhance predictive accuracy. Furthermore, I delved into the implementation of Random Forest Regression, leveraging its ensemble learning approach to 
